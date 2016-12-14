@@ -1,1 +1,14 @@
-theme: minima
+
+# Setup
+title:               52 projects
+tagline:             52-projects
+
+# About
+author:
+  name:              Donny Kurniawan
+  url:               https://twitter.com/donny_k_
+
+# Gems
+gems:
+  - jekyll-gist
+  - jemoji
