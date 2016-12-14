@@ -1,13 +1,9 @@
 
 # Setup
-title:               52 projects
-tagline:             52-projects
-theme:               minima
-
-# About
-author:
-  name:              Donny Kurniawan
-  url:               https://twitter.com/donny_k_
+title: 52projects
+theme: minima
+twitter_username: donny_k_
+github_username: donny
 
 # Gems
 gems:
