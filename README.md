@@ -17,7 +17,9 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 The new stuff that I learn through this project: [elm-mdl](https://debois.github.io/elm-mdl/),
 [elm-decode-pipeline](https://github.com/NoRedInk/elm-decode-pipeline), and better understanding of [Elm](http://elm-lang.org).
 
-**Week 2** (8 Jan - 14 Jan): ...
+**Week 2** (8 Jan - 14 Jan): [Bittern](https://github.com/donny/bittern) is a command-line interface (CLI) multi user chat system written in [Crystal](https://crystal-lang.org) using TCP/IP socket connection.
+
+The new stuff that I learn through this project: the [Crystal](https://crystal-lang.org) programming language.
 
 **Week 3** (15 Jan - 21 Jan): ...
 
