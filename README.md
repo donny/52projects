@@ -18,7 +18,9 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 
 **Week 3** (15 Jan - 21 Jan): [Cardinal](https://github.com/donny/cardinal) is a Python [Google App Engine](https://cloud.google.com/appengine/) app that checks a popular [Australian bargain](https://www.ozbargain.com.au/) web site and emails deals that match users' keywords. The new stuff that I learn through this project: [Google Cloud Datastore](https://cloud.google.com/datastore/) and [Google App Engine](https://cloud.google.com/appengine/) (revisit).
 
-**Week 4** (22 Jan - 28 Jan): [Dipper](https://github.com/donny/dipper) is a Star Wars Trivia Generator written using [React](https://facebook.github.io/react/) and deployed on [Netlify](https://www.netlify.com). The new stuff that I learn through this project: [React](https://facebook.github.io/react/), [Netlify](https://www.netlify.com), and [SWAPI](https://swapi.co).
+**Week 4** (22 Jan - 28 Jan): [Dipper](https://github.com/donny/dipper) is a Star Wars Trivia Generator written using [React](https://facebook.github.io/react/) and deployed on [Netlify](https://www.netlify.com).
+
+###### The new stuff that I learn through this project: [React](https://facebook.github.io/react/), [Netlify](https://www.netlify.com), and [SWAPI](https://swapi.co).
 
 **Week 5** (29 Jan - 4 Feb): ...
 
