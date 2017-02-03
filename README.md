@@ -28,4 +28,6 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 
 ### Week 5 (29 Jan - 4 Feb)
 
+[Eider](https://github.com/donny/eider) is a command-line interface (CLI) implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life) written in [Io](http://iolanguage.org). The new stuff that I learn through this project: the [Io](http://iolanguage.org) programming language.
+
 ### Week 6 (5 Feb - 11 Feb)
