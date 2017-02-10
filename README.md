@@ -31,3 +31,11 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 [Eider](https://github.com/donny/eider) is a command-line interface (CLI) implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life) written in [Io](http://iolanguage.org). The new stuff that I learn through this project: the [Io](http://iolanguage.org) programming language.
 
 ### Week 6 (5 Feb - 11 Feb)
+
+[Finch](https://github.com/donny/finch) is a simple CLI calculator using a small ANSI color printing library built using [Autoconf](https://www.gnu.org/software/autoconf/autoconf.html), [Automake](https://www.gnu.org/software/automake/), and [Libtool](https://www.gnu.org/software/libtool/). The new stuff that I learn through this project: [Autoconf](https://www.gnu.org/software/autoconf/autoconf.html) (revisit), [Automake](https://www.gnu.org/software/automake/) (revisit), and [Libtool](https://www.gnu.org/software/libtool/).
+
+### Week 7 (12 Feb - 18 Feb)
+
+### Week 8 (19 Feb - 25 Feb)
+
+### Week 9 (26 Feb - 4 Mar)
