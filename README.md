@@ -36,6 +36,8 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 
 ### Week 7 (12 Feb - 18 Feb)
 
+[Gallinule](https://github.com/donny/gallinule) is a small [React](https://facebook.github.io/react/) app to browse iOS App Store reviews for popular Australian property apps. The new stuff that I learn through this project: [Redux](http://redux.js.org/) and [styled-components](https://styled-components.com).
+
 ### Week 8 (19 Feb - 25 Feb)
 
 ### Week 9 (26 Feb - 4 Mar)
