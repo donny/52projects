@@ -40,4 +40,6 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 
 ### Week 8 (19 Feb - 25 Feb)
 
+[Hummingbird](https://github.com/donny/hummingbird) is a [Trello](https://trello.com) read-only client for macOS written using [Swift](https://swift.org) 3 and [AppKit](https://developer.apple.com/reference/appkit). The new stuff that I learn through this project: [Swift](https://swift.org) 3, [AppKit](https://developer.apple.com/reference/appkit) (revisit), and [Trello API](https://developers.trello.com) (revisit).
+
 ### Week 9 (26 Feb - 4 Mar)
