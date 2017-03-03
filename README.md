@@ -44,7 +44,7 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 
 ### Week 9 (26 Feb - 4 Mar)
 
-[Ibis](https://github.com/donny/ibis) is a web site using Kitura that displays tone analysis of iOS App Store reviews using [IBM Watson Tone Analyzer](https://www.ibm.com/watson/developercloud/tone-analyzer.html) and hosted on [IBM Bluemix](https://developer.ibm.com/swift/swift-on-ibm-cloud/). The new stuff that I learn through this project: [Kitura](https://developer.ibm.com/swift/kitura/), [IBM Bluemix](https://developer.ibm.com/swift/swift-on-ibm-cloud/), and [IBM Watson Tone Analyzer](https://www.ibm.com/watson/developercloud/tone-analyzer.html).
+[Ibis](https://github.com/donny/ibis) is a web site using [Kitura](https://developer.ibm.com/swift/kitura/) that displays tone analysis of iOS App Store reviews using [IBM Watson Tone Analyzer](https://www.ibm.com/watson/developercloud/tone-analyzer.html) and hosted on [IBM Bluemix](https://developer.ibm.com/swift/swift-on-ibm-cloud/). The new stuff that I learn through this project: [Kitura](https://developer.ibm.com/swift/kitura/), [IBM Bluemix](https://developer.ibm.com/swift/swift-on-ibm-cloud/), and [IBM Watson Tone Analyzer](https://www.ibm.com/watson/developercloud/tone-analyzer.html).
 
 ### Week 10 (5 Mar - 11 Mar)
 
