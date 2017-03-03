@@ -43,3 +43,11 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 [Hummingbird](https://github.com/donny/hummingbird) is a [Trello](https://trello.com) read-only client for macOS written using [Swift](https://swift.org) 3 and [AppKit](https://developer.apple.com/reference/appkit). The new stuff that I learn through this project: [Swift](https://swift.org) 3, [AppKit](https://developer.apple.com/reference/appkit) (revisit), and [Trello API](https://developers.trello.com) (revisit).
 
 ### Week 9 (26 Feb - 4 Mar)
+
+[Ibis](https://github.com/donny/ibis) is a web site using Kitura that displays tone analysis of iOS App Store reviews using [IBM Watson Tone Analyzer](https://www.ibm.com/watson/developercloud/tone-analyzer.html) and hosted on [IBM Bluemix](https://developer.ibm.com/swift/swift-on-ibm-cloud/). The new stuff that I learn through this project: [Kitura](https://developer.ibm.com/swift/kitura/), [IBM Bluemix](https://developer.ibm.com/swift/swift-on-ibm-cloud/), and [IBM Watson Tone Analyzer](https://www.ibm.com/watson/developercloud/tone-analyzer.html).
+
+### Week 10 (5 Mar - 11 Mar)
+
+### Week 11 (12 Mar - 18 Mar)
+
+### Week 12 (19 Mar - 25 Mar)
