@@ -48,6 +48,8 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 
 ### Week 10 (5 Mar - 11 Mar)
 
+[Jaeger](https://github.com/donny/jaeger) is a Swift library for the [Buildkite API](https://buildkite.com/docs/rest-api) using the [Swift Package Manager](https://swift.org/package-manager). The new stuff that I learn through this project: [Buildkite API](https://buildkite.com/docs/rest-api) and [Swift Package Manager](https://swift.org/package-manager).
+
 ### Week 11 (12 Mar - 18 Mar)
 
 ### Week 12 (19 Mar - 25 Mar)
