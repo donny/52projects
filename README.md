@@ -52,4 +52,6 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 
 ### Week 11 (12 Mar - 18 Mar)
 
+[Kestrel](https://github.com/donny/kestrel) is an idea board web app for sprint retrospective meetings implemented using [Ember](http://emberjs.com) and [Firebase](https://firebase.google.com). The new stuff that I learn through this project: [Ember](http://emberjs.com) (revisit), [EmberFire](https://github.com/firebase/emberfire), [Ember Paper](http://miguelcobain.github.io/ember-paper), and [Firebase Web](https://firebase.google.com/docs/web/setup).
+
 ### Week 12 (19 Mar - 25 Mar)
