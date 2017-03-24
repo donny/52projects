@@ -55,3 +55,7 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 [Kestrel](https://github.com/donny/kestrel) is an idea board web app for sprint retrospective meetings implemented using [Ember](http://emberjs.com) and [Firebase](https://firebase.google.com). The new stuff that I learn through this project: [Ember](http://emberjs.com) (revisit), [EmberFire](https://github.com/firebase/emberfire), [Ember Paper](http://miguelcobain.github.io/ember-paper), and [Firebase Web](https://firebase.google.com/docs/web/setup).
 
 ### Week 12 (19 Mar - 25 Mar)
+
+[Linnet](https://github.com/donny/linnet) is a small Python script for [Scroll Bot](https://shop.pimoroni.com/products/scroll-bot-pi-zero-w-project-kit) that displays current time and weather observation data using [OpenWeatherMap](http://openweathermap.org). The new stuff that I learn through this project: [Scroll Bot](https://shop.pimoroni.com/products/scroll-bot-pi-zero-w-project-kit) and [OpenWeatherMap](http://openweathermap.org).
+
+### Week 13 (26 Mar - 1 Apr)
