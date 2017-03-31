@@ -59,3 +59,7 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 [Linnet](https://github.com/donny/linnet) is a small Python script for [Scroll Bot](https://shop.pimoroni.com/products/scroll-bot-pi-zero-w-project-kit) that displays current time and [weather](http://openweathermap.org) observation data using [PyOWM](https://github.com/csparpa/pyowm). The new stuff that I learn through this project: [Scroll Bot](https://shop.pimoroni.com/products/scroll-bot-pi-zero-w-project-kit) and [PyOWM](https://github.com/csparpa/pyowm).
 
 ### Week 13 (26 Mar - 1 Apr)
+
+[Magpie](https://github.com/donny/magpie) is an idea board iOS app for sprint retrospective meetings implemented using [Firebase](https://firebase.google.com). It is the iOS counterpart of [Kestrel](https://github.com/donny/kestrel). The new stuff that I learn through this project: [Firebase iOS](https://firebase.google.com/docs/ios/setup), [Eureka](https://github.com/xmartlabs/Eureka), and [APESuperHUD](https://github.com/apegroup/APESuperHUD).
+
+### Week 14 (2 Apr - 8 Apr)
