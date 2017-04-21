@@ -71,3 +71,7 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 [Ovenbird](https://github.com/donny/ovenbird) is a small React app that shows the map of Melbourne and its suburb boundaries. The new stuff that I learn through this project: [Mapbox](https://www.mapbox.com) and [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl).
 
 ### Week 16 (16 Apr - 22 Apr)
+
+[Peregrine](https://github.com/donny/peregrine) is a Google App Engine app that fetches Australian share prices and save them to [Google Sheets](https://www.google.com.au/sheets/about/). The new stuff that I learn through this project: [pygsheets](https://github.com/nithinmurali/pygsheets) and [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance).
+
+### Week 17 (23 Apr - 29 Apr)
