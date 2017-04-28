@@ -75,3 +75,7 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 [Peregrine](https://github.com/donny/peregrine) is a Google App Engine app that fetches Australian share prices and save them to [Google Sheets](https://www.google.com.au/sheets/about/). The new stuff that I learn through this project: [pygsheets](https://github.com/nithinmurali/pygsheets) and [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance).
 
 ### Week 17 (23 Apr - 29 Apr)
+
+[Quail](https://github.com/donny/quail) is a [Serverless](https://serverless.com) app that fetches new properties for sale from [Domain](https://www.domain.com.au) and save them to [Airtable](https://airtable.com). The new stuff that I learn through this project: [Serverless Framework](https://serverless.com) and [Airtable](https://airtable.com).
+
+### Week 18 (30 Apr - 6 May)
