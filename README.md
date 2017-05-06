@@ -79,3 +79,7 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 [Quail](https://github.com/donny/quail) is a [Serverless](https://serverless.com) app that fetches new properties for sale from [Domain](https://www.domain.com.au) and save them to [Airtable](https://airtable.com). The new stuff that I learn through this project: [Serverless Framework](https://serverless.com) and [Airtable](https://airtable.com).
 
 ### Week 18 (30 Apr - 6 May)
+
+[Raven](https://github.com/donny/raven) is a CLI app written in Elixir to display GitHub issues for a particular project. The new stuff that I learn through this project: the [Elixir](http://elixir-lang.org) programming language.
+
+### Week 19 (7 May - 13 May)
