@@ -87,3 +87,7 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 [Starling](https://github.com/donny/starling) is a CLI app written in Elixir to search for new properties for sale from Domain. The new stuff that I learn through this project: [TableRex](https://github.com/djm/table_rex).
 
 ### Week 20 (14 May - 20 May)
+
+[Tern](https://github.com/donny/tern) is a simple web site implemented using [Phoenix](http://www.phoenixframework.org) that gives a random excuse for a sick leave. The new stuff that I learn through this project: [Phoenix](http://www.phoenixframework.org).
+
+### Week 21 (21 May - 27 May)
