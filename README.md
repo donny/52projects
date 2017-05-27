@@ -91,3 +91,7 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 [Tern](https://github.com/donny/tern) is a simple web site implemented using [Phoenix](http://www.phoenixframework.org) that gives a random excuse for a sick leave. The new stuff that I learn through this project: [Phoenix](http://www.phoenixframework.org).
 
 ### Week 21 (21 May - 27 May)
+
+[Upland](https://github.com/donny/upland) is a web site and API using [Micro](https://github.com/zeit/micro) that displays landscape photos from [Reddit](https://www.reddit.com/r/EarthPorn/) and deployed on [Now](https://zeit.co/now). The new stuff that I learn through this project: [Micro](https://github.com/zeit/micro) and [Now](https://zeit.co/now).
+
+### Week 22 (28 May - 3 Jun)
