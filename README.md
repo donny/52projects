@@ -95,3 +95,7 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 [Upland](https://github.com/donny/upland) is a web site and API using [Micro](https://github.com/zeit/micro) that displays landscape photos from [Reddit](https://www.reddit.com/r/EarthPorn/) and deployed on [Now](https://zeit.co/now). The new stuff that I learn through this project: [Micro](https://github.com/zeit/micro) and [Now](https://zeit.co/now).
 
 ### Week 22 (28 May - 3 Jun)
+
+[Veery](https://github.com/donny/veery) is a simple machine learning model for MNIST using [TensorFlow](https://www.tensorflow.org). The new stuff that I learn through this project: [TensorFlow](https://www.tensorflow.org).
+
+### Week 23 (4 Jun - 10 Jun)
