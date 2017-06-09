@@ -99,3 +99,7 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 [Veery](https://github.com/donny/veery) is a simple machine learning model for MNIST using [TensorFlow](https://www.tensorflow.org). The new stuff that I learn through this project: [TensorFlow](https://www.tensorflow.org).
 
 ### Week 23 (4 Jun - 10 Jun)
+
+[Woodpecker](https://github.com/donny/woodpecker) is a simple web site implemented using [Vue.js](https://vuejs.org) that shows a random joke from Reddit. The new stuff that I learn through this project: [Vue.js](https://vuejs.org).
+
+### Week 24 (11 Jun - 17 Jun)
