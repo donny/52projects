@@ -103,3 +103,9 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 [Woodpecker](https://github.com/donny/woodpecker) is a simple web site implemented using [Vue.js](https://vuejs.org) that shows a random joke from Reddit. The new stuff that I learn through this project: [Vue.js](https://vuejs.org).
 
 ### Week 24 (11 Jun - 17 Jun)
+
+[Xantus](https://github.com/donny/xantus) is a simple API.AI agent for Google Home. The new stuff that I learn through this project: [API.AI](https://api.ai).
+
+### Week 25 (18 Jun - 24 Jun)
+
+### Week 26 (25 Jun - 1 Jul)
