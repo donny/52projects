@@ -108,4 +108,6 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 
 ### Week 25 (18 Jun - 24 Jun)
 
+[Yellowthroat](https://github.com/donny/ellowthroat) is an Electron app to browse predefined Reddit's subreddits. The new stuff that I learn through this project: [Electron](https://electron.atom.io), [Photon](http://photonkit.com), and [jQuery](https://jquery.com) (revisit).
+
 ### Week 26 (25 Jun - 1 Jul)
