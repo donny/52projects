@@ -111,3 +111,5 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 [Yellowthroat](https://github.com/donny/yellowthroat) is an Electron app to browse predefined Reddit's subreddits. The new stuff that I learn through this project: [Electron](https://electron.atom.io), [Photon](http://photonkit.com), and [jQuery](https://jquery.com) (revisit).
 
 ### Week 26 (25 Jun - 1 Jul)
+
+[Zitting](https://github.com/donny/zitting) is a small AWS Lambda using [Gordon](https://github.com/jorgebastida/gordon) that displays top 10 stories from [Hacker News](https://news.ycombinator.com). The new stuff that I learn through this project: [Gordon](https://github.com/jorgebastida/gordon) and [Haxor](https://github.com/avinassh/haxor).
