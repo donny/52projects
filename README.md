@@ -113,3 +113,7 @@ Wish me luck, hopefully I do not stop in the middle of the year ;)
 ### Week 26 (25 Jun - 1 Jul)
 
 [Zitting](https://github.com/donny/zitting) is a small AWS Lambda using [Gordon](https://github.com/jorgebastida/gordon) that displays top 10 stories from [Hacker News](https://news.ycombinator.com). The new stuff that I learn through this project: [Gordon](https://github.com/jorgebastida/gordon) and [Haxor](https://github.com/avinassh/haxor).
+
+## Epilogue
+
+*An update in July 2017.* Well, I guess I jinxed myself ;) After 26 projects in 26 weeks, I've stopped doing this due to other higher priority commitments. I had fun and learnt a ton doing this. But it's very hard with limited amount of time available. Maybe next time ;)
