@@ -8,7 +8,7 @@ The new year typically brings with it reflection on the past and a renewed sense
 
 A project should result in *something*, whether it's a web app, a CLI app, APIs, an editor plug-in, or whatever. It should be big enough that we can learn new interesting stuff through the project and yet it should be small enough that it can be done in one week. A project will be in a separate GitHub repository and the list is kept below.
 
-Wish me luck, hopefully I do not stop in the middle of the year ;) [Update in July 2017](https://github.com/donny/52projects#epilogue).
+Wish me luck, hopefully I do not stop in the middle of the year 😀 ([update in July 2017](https://github.com/donny/52projects#epilogue)).
 
 ### Week 1 (1 Jan - 7 Jan)
 
@@ -116,6 +116,6 @@ Wish me luck, hopefully I do not stop in the middle of the year ;) [Update in Ju
 
 ## Epilogue
 
-*An update in July 2017.* Well, I guess I jinxed myself ;) After 26 projects in 26 weeks, I've stopped doing this due to other higher priority commitments. I had fun and learnt a ton doing this. But it's very hard with limited amount of time available. Maybe next time ;) At least I managed to get this:
+*Update in July 2017.* Well, I guess I jinxed myself 😀 After 26 projects in 26 weeks, I've stopped doing this due to other higher priority commitments. I had fun and learnt a ton doing this. But it's very hard with limited amount of time available. Maybe next time. At least I managed to get this:
 
 ![GitHub](https://raw.githubusercontent.com/donny/52projects/master/github.png)
